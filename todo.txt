@@ -1,0 +1,50 @@
+Authentication Endpoints
+************************* Client + Server Implemented **********
+[-] Register
+[-] Login
+[-] Log Out
+[-] Refresh Token
+
+************************* Client + Server Implemented **********
+Users Endpoints
+[-] Get all Expert Users 
+[-] Get all People
+[-] Update a user          - unchecked
+[-] Delete a user          - unchecked
+[-] Get person by majorId 
+
+Records Endpoints
+[-] Create a Record
+[-] Delete a record
+[-] Get all Records
+[-] Get all Records created by a particular Expert User
+[-] Get all Records of a particular Person
+[-] Get Record of a particular Person by majorId
+
+Questions Endpoints
+[-] Create a Question
+[-] Delete a Question
+[+] Update a Question
+[-] Get All Questions
+[-] Get All Questions of loggedIn user
+
+Comments Endpoints
+[-] Create Comment to a perticular Question
+[-] Update the Comment
+[-] Delete the Comment    -- issue : comment not deleting from questions's comments array
+[-] Get Comments of a particular Question
+
+
+[-] person routes isVaccinated not set yet 
+
+[+] Create client side for each above Endpoints (keep rechecking)
+
+[+] Client Record Image uploading               
+[+] Web Scraping Covid Data from mohp           **
+[+] Question image posting
+[+] Answer Image posting
+[+] User Image posting
+[+] Chatbot             
+[+] Voice Assistant   
+
+[+] Social Integration facebook and gmail       cancel
